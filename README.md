@@ -3,7 +3,7 @@ Esse é o meu primeiro desafio Front-End. Consegui esse desafio no Frontend Ment
 
 Nesse desafio comecei a usar meus conceitos iniciais de HTML e CSS, estruturando Sections, Divs etc tão bem como flex-box, positions, displays,transitions e pseudo-elementos.
 
-A parte que me desafia ainda é saber como conseguir posicionar os elementos.
+A parte que me desafia é saber como conseguir posicionar os elementos.
 Construi esse desafio todo consumindo ensinamentos de videos na internet e lendo documentação. 
 
 Além disso, outro desafio tem sido conseguir adicionar responsividade ao design. Neste conseguir adicionar uma boa experiência web para 1440px e web para 375px.
