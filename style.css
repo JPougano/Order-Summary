@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap");
+
 *{
     margin: 0px;
     padding: 0px;
@@ -7,7 +9,7 @@ body{
     background-image: url("images/pattern-background-desktop.svg");
     background-repeat: no-repeat;
     background-color: hsl(225, 100%, 94%);
-    font-family: "Hat Display", sans-serif;
+    font-family: "Red Hat Display", sans-serif;
 }
 
 .main-container{
@@ -24,7 +26,6 @@ body{
     margin: auto;
     border-radius: 15px;
     box-shadow: 10px 10px 10px hsl(223, 47%, 75%);
-
 }
 
 .hero-icon{
@@ -65,6 +66,7 @@ p,li{
 .plan{
     display: flex;
 }
+
 .music-icon{
     float: left;
 }
@@ -117,20 +119,12 @@ a:active{
     font-weight: 700;
     text-align: center;
     transition-duration: 300ms;
-
 }
 
 .cancel:hover{
     font-size: 15px;
     transition-duration: 300ms;
 }
-
-
-
-
-
-
-
 
 .attribution {
     font-size: 11px; text-align: center; 
